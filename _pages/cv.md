@@ -16,6 +16,7 @@ Education
   * Supervisor: Prof. Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020–2024
   * Graduated in June 2024
+  * Undergraduate advisor: Prof. Junxian He
 
 Research Experience
 ======
